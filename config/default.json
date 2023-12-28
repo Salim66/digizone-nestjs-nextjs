@@ -1,0 +1,4 @@
+{
+    "port": "3100",
+    "mongoDbUrl": "mongodb+srv://salim66:salim66@cluster0.f3wbpfy.mongodb.net/"
+}
